@@ -1,27 +1,37 @@
 # Who I am?
-A computer science student and hobbyist passionate about programming. I develop my skills that will help me become a full-stack dev using the MERN stack.
 
-## I present my tech stack:
-<img src="/icons/css.png" width="60" height="60"><img src="/icons/html.png" width="60" height="60"><img src="/icons/js.png" width="60" height="60"><img src="/icons/typescript.png" width="60" height="60"><img src="/icons/nodejs.png" width="60" height="60"><img src="/icons/express.png" width="60" height="60"><img src="/icons/nest.png" width="60" height="60"><img src="/icons/mysql.png" width="60" height="60"><img src="/icons/react.png" width="60" height="60"><img src="/icons/ubuntu.png" width="60" height="60">
+I'm a computer science student and a passionate programming hobbyist. My goal is to become a full-stack developer using the MERN stack.
 
-# My projects:
+## My Tech Stack
+Here are the technologies and tools I'm familiar with:
 
-## `Rock Paper Scissors`
-## Small game created in React and Express.js.
-The game allows for single and two-player gameplay. You can also send an e-mail, if you have any question to the game developers!
- - https://react-g-rock-paper-scissors.netlify.app/
+<p align="center">
+  <img src="/icons/css.png" width="60" height="60" alt="CSS">
+  <img src="/icons/html.png" width="60" height="60" alt="HTML">
+  <img src="/icons/js.png" width="60" height="60" alt="JavaScript">
+  <img src="/icons/typescript.png" width="60" height="60" alt="TypeScript">
+  <img src="/icons/nodejs.png" width="60" height="60" alt="Node.js">
+  <img src="/icons/express.png" width="60" height="60" alt="Express.js">
+  <img src="/icons/nest.png" width="60" height="60" alt="Nest.js">
+  <img src="/icons/mysql.png" width="60" height="60" alt="MySQL">
+  <img src="/icons/react.png" width="60" height="60" alt="React">
+  <img src="/icons/ubuntu.png" width="60" height="60" alt="Ubuntu">
+</p>
 
- ## `Authentication panel`
- ## Fully functional user registration and login panel. 
-Registration is secured by reCAPTCHA and requires confirmation via the user's e-mail.
-Login is secured with JSON Web Token, and it also allows you to reset your password if you wish.
- - https://authentication-react-express.netlify.app/
+# My Projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarolDawidG&layout=pie)](https://github.com/KarolDawidG/github-readme-stats)
+## Rock Paper Scissors
+A small game created in React and Express.js. The game supports single-player and two-player gameplay. You can also contact the game developers via email if you have any questions!
+- [Play Rock Paper Scissors](https://react-g-rock-paper-scissors.netlify.app/)
 
-![KarolDawidG's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarolDawidG&hide=stars,contribs,prs,issues&show_icons=true&theme=tokyonight&inc=true&rank_icon=github)
+## Authentication Panel
+A fully functional user registration and login panel. Registration is secured with reCAPTCHA and requires email confirmation. Login is secured with JSON Web Tokens (JWT), and it also includes a password reset feature.
+- [Access Authentication Panel](https://authentication-react-express.netlify.app/)
 
+# GitHub Stats
 
+Here's a snapshot of my GitHub stats:
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarolDawidG&layout=compact&theme=tokyonight)](https://github.com/KarolDawidG/github-readme-stats)
 
-
+![KarolDawidG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarolDawidG&show_icons=true&theme=tokyonight&include_all_commits=true)
