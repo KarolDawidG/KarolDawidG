@@ -2,8 +2,7 @@
 
 I'm a computer science student and a passionate programming hobbyist. My goal is to become a full-stack developer using the MERN stack.
 
-## My Tech Stack
-Here are the technologies and tools I'm familiar with:
+## Here are the technologies and tools I'm familiar with:
 
 <p align="center">
   <img src="/icons/css.png" width="60" height="60" alt="CSS">
@@ -30,8 +29,10 @@ A fully functional user registration and login panel. Registration is secured wi
 
 # GitHub Stats
 
-Here's a snapshot of my GitHub stats:
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarolDawidG&layout=compact&theme=tokyonight)](https://github.com/KarolDawidG/github-readme-stats)
-
-![KarolDawidG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarolDawidG&show_icons=true&theme=tokyonight&include_all_commits=true)
+Here's a snapshot of my GitHub stats:  
+<p align="center">
+  <a href="https://github.com/KarolDawidG/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarolDawidG&layout=compact&theme=tokyonight" alt="Top Languages">
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=KarolDawidG&hide=stars,contribs,prs,issues&show_icons=true&theme=tokyonight&inc=true&rank_icon=github" alt="GitHub Stats">
+</p>
