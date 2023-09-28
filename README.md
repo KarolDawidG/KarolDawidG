@@ -19,11 +19,11 @@ I'm a computer science student and a passionate programming hobbyist. My goal is
 
 # My Projects
 
-## Rock Paper Scissors
+## [Rock Paper Scissors](https://github.com/KarolDawidG/ReactProjects__Rock_Paper_Scissors)
 A small game created in React and Express.js. The game supports single-player and two-player gameplay. You can also contact the game developers via email if you have any questions!
 - [Play Rock Paper Scissors](https://react-g-rock-paper-scissors.netlify.app/)
 
-## Authentication Panel
+## [Authentication Panel](https://github.com/KarolDawidG/Authentication-React_Express)
 A fully functional user registration and login panel. Registration is secured with reCAPTCHA and requires email confirmation. Login is secured with JSON Web Tokens (JWT), and it also includes a password reset feature.
 - [Access Authentication Panel](https://authentication-react-express.netlify.app/)
 
