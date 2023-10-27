@@ -15,6 +15,8 @@ I'm a computer science student and a passionate programming hobbyist. My goal is
   <img src="/icons/mysql.png" width="60" height="60" alt="MySQL">
   <img src="/icons/react.png" width="60" height="60" alt="React">
   <img src="/icons/ubuntu.png" width="60" height="60" alt="Ubuntu">
+  <img src="/icons/next.png" width="60" height="60" alt="Next.js">
+  <img src="/icons/bootstrap.png" width="60" height="60" alt="Bootstrap">
 </p>
 
 # My Projects
@@ -23,9 +25,11 @@ I'm a computer science student and a passionate programming hobbyist. My goal is
 A small game created in React and Express.js. The game supports single-player and two-player gameplay. You can also contact the game developers via email if you have any questions!
 - [Play Rock Paper Scissors](https://react-g-rock-paper-scissors.netlify.app/)
 
-## [Authentication Panel](https://github.com/KarolDawidG/Authentication-React_Express)
-A fully functional user registration and login panel. Registration is secured with reCAPTCHA and requires email confirmation. Login is secured with JSON Web Tokens (JWT), and it also includes a password reset feature.
-- [Access Authentication Panel](https://authentication-react-express.netlify.app/)
+## [Mega-Test](https://github.com/KarolDawidG/Mega-Test)
+This application is a user-friendly tool for creating, editing, saving, and loading multiple-choice tests, facilitating test management and customization. The app also includes a fully functional user registration and login panel. Registration is secured with reCAPTCHA and requires email confirmation. Login is secured with JSON Web Tokens (JWT), and it also includes a password reset feature. Mega-test also includes a small contact form.
+If you want to know the details, click the link above!
+- [Mega Test](https://mega-test.netlify.app/)
+  ------ DEMO will be added soon! Stay tuned! ------
 
 # GitHub Stats
 
