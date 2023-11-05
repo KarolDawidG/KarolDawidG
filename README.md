@@ -29,8 +29,7 @@ A small game created in React and Express.js. The game supports single-player an
 This application is a user-friendly tool for creating, editing, saving, and loading multiple-choice tests, facilitating test management and customization. The app also includes a fully functional user registration and login panel. Registration is secured with reCAPTCHA and requires email confirmation. Login is secured with JSON Web Tokens (JWT), and it also includes a password reset feature. Mega-test also includes a small contact form.
 If you want to know the details, click the link above!
 - [Mega Test](https://mega-test.netlify.app/)
-  ------ DEMO will be added soon! Stay tuned! ------
-
+To try it out, log in with the details provided in the placeholder!
 # GitHub Stats
 
 Here's a snapshot of my GitHub stats:  
