@@ -1,6 +1,6 @@
 # Who I am?
 
-I'm a computer science student and a passionate programming hobbyist. My goal is to become a full-stack developer using the MERN stack.
+I'm a passionate programming hobbyist.
 
 ## Here are the technologies and tools I'm familiar with:
 
