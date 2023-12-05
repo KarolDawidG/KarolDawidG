@@ -37,5 +37,5 @@ Here's a snapshot of my GitHub stats:
   <a href="https://github.com/KarolDawidG/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarolDawidG&layout=compact&theme=tokyonight" alt="Top Languages">
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=KarolDawidG&hide=stars,contribs,prs,issues&show_icons=true&theme=tokyonight&inc=true&rank_icon=github" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=KarolDawidG&hide=stars,contribs,issues&show_icons=true&theme=tokyonight&inc=true&rank_icon=github" alt="GitHub Stats">
 </p>
