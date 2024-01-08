@@ -17,6 +17,7 @@ I'm a passionate programming hobbyist.
   <img src="/icons/ubuntu.png" width="60" height="60" alt="Ubuntu">
   <img src="/icons/next.png" width="60" height="60" alt="Next.js">
   <img src="/icons/bootstrap.png" width="60" height="60" alt="Bootstrap">
+  <img src="/icons/docker.png" width="60" height="60" alt="Docker">
 </p>
 
 # My Projects
