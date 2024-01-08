@@ -12,6 +12,9 @@ I'm a passionate programming hobbyist.
   <img src="/icons/nodejs.png" width="60" height="60" alt="Node.js">
   <img src="/icons/express.png" width="60" height="60" alt="Express.js">
   <img src="/icons/nest.png" width="60" height="60" alt="Nest.js">
+</p>
+
+<p align="center">
   <img src="/icons/mysql.png" width="60" height="60" alt="MySQL">
   <img src="/icons/react.png" width="60" height="60" alt="React">
   <img src="/icons/ubuntu.png" width="60" height="60" alt="Ubuntu">
