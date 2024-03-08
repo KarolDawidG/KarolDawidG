@@ -25,7 +25,7 @@ I'm a passionate programming hobbyist.
 
 # Currently Ongoing Project
 
-## Paper Company
+## [Paper Company](https://github.com/KarolDawidG/Paper_Company)
 A new and exciting project is currently in development! Dive into the world of Papier Company's ERP System, where efficiency meets inspiration from "The Office." Our system comprises six core modules, each tailored to seamlessly cover various aspects of your business operations:
 - Sales and Order Management
 - Warehouse Management
@@ -35,7 +35,6 @@ A new and exciting project is currently in development! Dive into the world of P
 - Security and Access Control
   
 ## Links:
-- [Gtihub Repository](https://github.com/KarolDawidG/Paper_Company)
 - [API Documentation](https://karoldawidg.github.io/Paper_Company_Documentation/)
 
 # My Projects
