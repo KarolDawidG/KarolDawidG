@@ -23,6 +23,21 @@ I'm a passionate programming hobbyist.
   <img src="/icons/docker.png" width="60" height="60" alt="Docker">
 </p>
 
+# Currently Ongoing Project
+
+## Paper Company
+A new and exciting project is currently in development! Dive into the world of Papier Company's ERP System, where efficiency meets inspiration from "The Office." Our system comprises six core modules, each tailored to seamlessly cover various aspects of your business operations:
+- Sales and Order Management
+- Warehouse Management
+- Finance and Accounting
+- Human Resources Management
+- Data Analysis and Reporting
+- Security and Access Control
+  
+## Links:
+- [Gtihub Repository](https://github.com/KarolDawidG/Paper_Company)
+- [API Documentation](https://karoldawidg.github.io/Paper_Company_Documentation/)
+
 # My Projects
 
 ## [Rock Paper Scissors](https://github.com/KarolDawidG/ReactProjects__Rock_Paper_Scissors)
