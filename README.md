@@ -39,6 +39,10 @@ A new and exciting project is currently in development! Dive into the world of P
 
 # My Projects
 
+## [Cine EDI](https://github.com/KarolDawidG/Cine_EDI)
+CineEDI is an online VHS tape rental service with an EDI integration. The application features a database of around 200 films, using Express.js for the backend and MySQL for the relational database. The frontend is built with React Vite in TypeScript. Key information flow is managed through EDI documents.
+- [Cine EDI](https://cine-edi.netlify.app/)
+
 ## [Rock Paper Scissors](https://github.com/KarolDawidG/ReactProjects__Rock_Paper_Scissors)
 A small game created in React and Express.js. The game supports single-player and two-player gameplay. You can also contact the game developers via email if you have any questions!
 - [Play Rock Paper Scissors](https://react-g-rock-paper-scissors.netlify.app/)
